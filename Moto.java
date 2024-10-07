@@ -1,4 +1,4 @@
-public class Moto extends Veiculo{
+public final class Moto extends Veiculo{
     private boolean partidaEletrica;
 
     public boolean getPartidaEletrica() {
